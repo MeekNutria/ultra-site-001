@@ -1,0 +1,6 @@
+# robots.txt for Elevate Solutions
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://www.elevatesolutions.com/sitemap.xml
